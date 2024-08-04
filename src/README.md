@@ -9,8 +9,8 @@ heroFullScreen: true
 bgImageStyle:
   background-attachment: fixed
   background-position: center
-heroText: ic培训资料
-tagline: 讲义集合
+heroText: ic讲义
+tagline: 各种ic资源集合
 actions:
   - text: Docs
     link: ./software/
