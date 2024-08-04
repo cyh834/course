@@ -1,6 +1,7 @@
 ---
 title: 软件组培训资料
 icon: lightbulb
+footer: ""
 ---
 
 ## [讲义编写](write/README.md)

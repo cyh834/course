@@ -23,7 +23,8 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "",
+  copyright: "MIT 协议 | 版权所有 © 2024-现在 cyh",
 
   displayFooter: true,
 
@@ -77,6 +78,7 @@ export default hopeTheme({
       tabs: true,
       tasklist: true,
       vPre: true,
+      katex: true,
 
       // install chart.js before enabling it
       // chart: true,
@@ -92,8 +94,6 @@ export default hopeTheme({
       // gfm requires mathjax-full to provide tex support
       // gfm: true,
 
-      // install katex before enabling it
-      // katex: true,
 
       // install mathjax-full before enabling it
       // mathjax: true,

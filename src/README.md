@@ -15,6 +15,4 @@ actions:
   - text: Docs
     link: ./software/
 
-copyright: false
-footer: MIT 协议 | 版权所有 © 2024-现在 cyh
 ---
