@@ -28,27 +28,26 @@ Vuepress
   * [Vue](https://cn.vuejs.org/guide/introduction.html)
 :::
 
-## 环境配置
-1. 安装[node](https://nodejs.org/en/download/package-manager)
+## 本地构建
+1. 下载docker
 
 2. fork[网站](https://github.com/cyh834/course)到自己的github
 
-3. clone刚才fork的Repository
+3. clone刚才fork的存储库
 
-## 测试讲义
-1. 进入本地存储库
+4. 进入本地存储库
 ``` bash
 cd course
-```
-2. 本地构建网站
+``` 
+5. 本地构建网站
 ``` bash
-npm run docs:dev
+make test
 ```
-3. 用浏览器打开:[http://localhost:8080/course/](http://localhost:8080/course/)
+6. 用浏览器打开:[http://localhost:8080/course/](http://localhost:8080/course/)
 
 ## 修改讲义
 1. 增加/修改`src/software`下的markdown文件
-2. 测试讲义
+2. 然后`make test`
 
 ## 提交讲义
 
