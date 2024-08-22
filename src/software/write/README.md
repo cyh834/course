@@ -29,7 +29,7 @@ Vuepress
 :::
 
 ## 本地构建
-1. 下载docker
+1. 下载[docker](https://docs.docker.com/engine/install/ubuntu/)
 
 2. fork[网站](https://github.com/cyh834/course)到自己的github
 
