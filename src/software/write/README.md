@@ -43,7 +43,18 @@ cd course
 ``` bash
 make test
 ```
+
+`make test`会自动拉取镜像，如果因为网络问题导致镜像拉取失败，可以从网盘中下载
+链接: https://pan.baidu.com/s/1cP9hpwoIzC3cceHBG-aRkA?pwd=9wct 提取码: 9wct
+
+然后运行
+``` bash
+docker load -i web.tar
+```
+最后再次尝试`make test`
+
 6. 用浏览器打开:[http://localhost:8080/course/](http://localhost:8080/course/)
+
 
 ## 修改讲义
 1. 增加/修改`src/software`下的markdown文件
