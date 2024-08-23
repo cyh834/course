@@ -44,8 +44,7 @@ cd course
 make test
 ```
 
-`make test`会自动拉取镜像，如果因为网络问题导致镜像拉取失败，可以从网盘中下载
-链接: https://pan.baidu.com/s/1cP9hpwoIzC3cceHBG-aRkA?pwd=9wct 提取码: 9wct
+`make test`会自动拉取镜像，如果因为网络问题导致镜像拉取失败，可以从[网盘](https://pan.baidu.com/s/1cP9hpwoIzC3cceHBG-aRkA?pwd=9wct)中下载
 
 然后运行
 ``` bash
