@@ -7,14 +7,13 @@ footer: ""
 ## 开发环境
 - shell
 - vim
-- gcc, gdb
 - makefile
 - ssh, git, docker
-- nix(可选)
+- ~~nix~~
   
 ## 从c语言到二进制
 - Linux C
-- 库函数
+- 函数库
 - 编译链接
 - riscv汇编
 
