@@ -59,6 +59,6 @@ docker load -i web.tar
 1. 增加/修改`src/software`下的markdown文件
 2. 然后`make test`
 
-## 提交讲义
+## 提交讲义 test
 
 为了防止你们提交后网站挂了，请提[PR](https://blog.csdn.net/qq_33429968/article/details/62219783)
