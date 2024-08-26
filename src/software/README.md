@@ -5,8 +5,7 @@ footer: ""
 ---
 
 ## 开发环境
-- shell
-- vim
+- shell, vim
 - makefile
 - ssh, git, docker
 - ~~nix~~
