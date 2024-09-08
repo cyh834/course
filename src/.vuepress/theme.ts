@@ -1,7 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 
 import navbar from "./navbar.js";
-import sidebar from "./sidebar.js";
+//import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   author: {
@@ -21,7 +21,7 @@ export default hopeTheme({
   navbar,
 
   // sidebar
-  sidebar,
+  sidebar: "structure",
 
   footer: "",
   copyright: "MIT 协议 | 版权所有 © 2024-现在 cyh",

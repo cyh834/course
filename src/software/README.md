@@ -2,10 +2,12 @@
 title: 软件组培训资料
 icon: lightbulb
 footer: ""
+dir:
+  link: true
 ---
 
-## 开发环境
-- shell, vim
+## [开发环境](Lab0/README.md)
+- [Linux](Lab0/1.md)
 - makefile
 - ssh, git, docker
 - ~~nix~~
@@ -15,6 +17,7 @@ footer: ""
 - 函数库
 - 编译链接
 - riscv汇编
+- C++基础,简单数据结构与算法
 
 ## 二进制如何影响物理世界
 - ~~从量子力学到门电路(你们上课可能会学)~~

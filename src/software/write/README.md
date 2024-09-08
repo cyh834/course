@@ -1,13 +1,15 @@
 ---
 title: 讲义编写
 icon: lightbulb
+dir:
+  link: true
 ---
 
 ## Markdown
 
 Markdown**半小时**就能速成，类似word，但是比word简单很多，讲义需要用Markdown编写。我们会最基础的语法就行了。
 
-::: tip 任务
+::: important 学习Markdown
  - 所有人都要会 [Markdown速成](https://theme-hope.vuejs.press/zh/cookbook/markdown/)
  - 如果你想要更好的展示效果，可以参考[Markdown](https://theme-hope.vuejs.press/zh/guide/intro/markdown.html)
 :::
