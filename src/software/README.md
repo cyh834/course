@@ -8,7 +8,7 @@ dir:
 
 ## [开发环境](Lab0/README.md)
 - [Linux](Lab0/1.md)
-- [makefile](Lab0/2.md)
+- [Makefile](Lab0/2.md)
 - ssh, git, docker
 - ~~nix~~
   
